@@ -16,6 +16,7 @@ To assemble and solder a simple LED circuit on a dotted (perfboard) PCB, ensurin
 1 x Switch
 Hook-up wire
 Soldering iron, solder, and side cutters
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/c2b592fb-a079-4c17-87f8-801aae87e2f8" />
 
 
 **Soldering Steps**
