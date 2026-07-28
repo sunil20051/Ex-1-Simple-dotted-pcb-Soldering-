@@ -1,4 +1,4 @@
-# Ex-1-Simple-dotted-pcb-Soldering-.
+# Ex-1-Simple-dotted-pcb-Soldering-..
 
 
 **Aim:**
